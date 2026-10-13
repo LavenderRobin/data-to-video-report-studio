@@ -1,0 +1,1 @@
+"""Core engine: timeline construction, narration pipeline, render scheduling."""
