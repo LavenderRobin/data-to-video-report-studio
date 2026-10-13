@@ -1,0 +1,1 @@
+"""Entry points: GUI bootstrap and headless CLI."""
