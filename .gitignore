@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.local
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Render scratch — d2v writes frame dumps here during timeline compose
+out/
+renders/
+frames/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.srt
+
+# Data fixtures users drop in
+datasets/
+!datasets/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+desktop.ini
