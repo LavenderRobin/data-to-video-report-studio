@@ -1,0 +1,1 @@
+"""Feature handlers wired to the GUI. Register new handlers in registry.py."""
